@@ -1,0 +1,4 @@
+Braun: 30000
+Muller: 15000
+Schwarz: 19000
+Schmidt: 25000
